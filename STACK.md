@@ -71,7 +71,9 @@ React é uma framework popular conhecido por sua flexibilidade e abordagem orien
 Além disso, ele vem com um extenso conjunto de ferramentas de teste sendo open-source com grande participação da comunidade. É a segunda melhor stack do desenvolvimento web.
 
 Front-end -> React | JavaScript ou TypeScript
+
 Back-end -> Express | Node.js
+
 DB -> MongoDB
 
 ## - MEAN -
@@ -81,7 +83,9 @@ MEAN é uma stack de software JavaScript gratuita e de código aberto para criar
 Como dito anteriormente sua característica única é que a linguagem usada nesta stack é escrita em JavaScript. Seus componentes são experientes em JSON e excelentes na transmissão de dados com acesso gratuito à biblioteca de módulos. Isso significa que os desenvolvedores da Web podem reutilizar esse código em todo o aplicativo sem precisar reinventar a roda.
 
 Front-end -> Angular | TypeScript
+
 Back-end -> Express | Node.js
+
 DB -> MongoDB
 
 ## - MEVN -
@@ -91,7 +95,9 @@ Uma variante do MEAN Stack, o MEVN Stack (MongoDB, Express, Vue, Node).
 É uma stack escrita em JavaScript com código aberto que surgiu como uma maneira nova e inteligente de criar aplicativos da Web poderosos e dinâmicos. Além disso, seus componentes de software podem ser usados ​​para produzir efetivamente o desenvolvimento de front-end e back-end e melhorar a funcionalidade do seu site ou aplicativo.
 
 Front-end -> Vue | JavaScript ou TypeScript
+
 Back-end -> Express | Node.js
+
 DB -> MongoDB
 
 ## - PERN -
@@ -99,7 +105,9 @@ DB -> MongoDB
 Essa stack consiste em PostgreSQL, Express, React e Node.js. Combinando essas tecnologias, você pode criar uma aplicação na Web em full-stack especializada em operações CRUD.
 
 Front-end -> React | JavaScript ou TypeScript
+
 Back-end -> Express | Node.js
+
 DB -> PostgreSQL
 
 ## - LAMP -
