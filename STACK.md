@@ -71,9 +71,7 @@ React é uma framework popular conhecido por sua flexibilidade e abordagem orien
 Além disso, ele vem com um extenso conjunto de ferramentas de teste sendo open-source com grande participação da comunidade. É a segunda melhor stack do desenvolvimento web.
 
 Front-end -> React | JavaScript ou TypeScript
-
 Back-end -> Express | Node.js
-
 DB -> MongoDB
 
 ## - MEAN -
