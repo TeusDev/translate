@@ -4,8 +4,6 @@ Curiosamente, notei que mesmo sabendo as divisões entre front-end / back-end / 
 
 ### [💥 melhores stack's de desenvolvimento web em 2022 💥](https://dev.to/theme_selection/best-web-development-stack-2jpe)
 
-<br>
-
 ###### Ah, já se conecta aí para ficar por dentro dos próximos posts e não esqueça de comentar o que achou ! ! ! <3
 
 <br>
@@ -16,7 +14,7 @@ Além disso, uma stack pode (e foi criada para isto) ser usada repetidamente par
 
 Como um potencial cliente de uma companhia ou simplesmente alguém interessado em desenvolver o seu próprio projeto, você definitivamente deve se interessar por quais stack's a empresa que você deseja trabalhar utiliza, ou quais, no caso, se adéquam melhor ao seu projeto pessoal.
 
-Atualmente, as tecnologias mais procuradas para se especializar que são utilizadas em conjunto para desenvolver soluções inovadoras, constitui-se principalmente de ferramentas como: NodeJS, MongoDB, ExpressJS, Angular, React, Vue, PostgreSQL, MySQL, Apache, dentre outras.
+Atualmente, as tecnologias mais procuradas para se especializar que são utilizadas em conjunto para desenvolver soluções inovadoras, constitui-se principalmente de ferramentas como: NodeJS, MongoDB, ExpressJS, Angular, React, Vue, PostgreSQL, MySQL, Apache, dentre algumas outras.
 
 Uma aplicação web é composta de ditos 'dois lados'. Um é disponibilizado para o cliente e é responsável pela interface do usuário, enquanto o outro é responsável pela experiência em si de navegação/interações do cliente.
 
@@ -30,13 +28,13 @@ Uma linguagem de marcação de hipertexto utilizada para a construção/organiza
 
 # CSS
 
-Utilizado para estilizar/customizar a aparência/design de um documento escrito em HTML. O CSS é como a ilustração de um texto, tornando as informações ali acessiveis e compreesivas para o usuário.
+Utilizado para estilizar/customizar a aparência/design de um documento escrito em HTML. O CSS é como a ilustração de um texto, tornando as informações ali accessíveis e compreensivas para o usuário.
 
 # JavaScript
 
 É a terceira tecnologia principal para construir o front-end de uma aplicação web. Utilizado regularmente para criar páginas de sites dinâmicos e intuitivos, capacita a aplicação com animações básicas e complexas da web, contribuindo significativamente para uma experiência de navegação confortável para o cliente. O JavaScript ajuda a fazer aplicativos fáceis de entender e manusear.
 
-### [Na publicação original, encontram-se links para exemplos de aplicações práticas do javascript!](https://dev.to/theme_selection/best-web-development-stack-2jpe)
+###### [! Na publicação original, encontram-se links para exemplos de aplicações práticas do javascript.](https://dev.to/theme_selection/best-web-development-stack-2jpe)
 
 <br>
 
@@ -56,9 +54,9 @@ Servidores Web – Aqui é onde se cria o back-end para supervisionar as demanda
 
 Bom (de fato), a resposta é SIM! Para as empresas sempre é benéfico ter alguém que tenha a experiência em ambos os 'lados' para que os produtos possam ser construídos em sincronia.
 
-Eles geralmente são os Devs experientes que trabalharam como desenvolvedores de front-end e back-end simultaneamente e têm conhecimento suficiente de ambos para usá-lo em benefício do projeto, visto que facilita a comunicação entre as equipes responsáveis.
+Eles geralmente são os desenvolvedores experientes que trabalharam como desenvolvedores de front-end e back-end simultaneamente e têm conhecimento suficiente de ambos para usá-lo em benefício do projeto, visto que facilita a comunicação entre as equipes responsáveis.
 
-Os desenvolvedores full-stack geralmente ocupam as cadeiras de líderes de tecnologia ou seniores. Sendo capazes de assumir o desenvolvimento de projetos inteiros em freelance ou gerenciar multiplas divisões de tecnologia em empresas. Portanto, é sempre uma boa opção buscar os conhecimentos necessários para a especialização full-stack.
+Os desenvolvedores full-stack geralmente ocupam as cadeiras de líderes de tecnologia ou seniores. Sendo capazes de assumir o desenvolvimento de projetos inteiros em freelance ou gerenciar múltiplas divisões/departamentos de tecnologia em empresas. Portanto, é sempre uma boa opção buscar os conhecimentos necessários para a especialização full-stack.
 
 # As STACK's:
 
@@ -172,3 +170,5 @@ Tendo em mente oque foi visto, escolher a stack correta é um desafio e afeta co
 Também seria interessante se você pudesse escolher a stack pensando na habilidade de sua equipe. Além disso, a stack correta permitirá que você faça atualizações caso haja necessidade no futuro. Também deve promover o seu desenvolvimento pessoal de negócios. O custo de manutenção também é afetado por isso e deve ser visto como um fator importante e decisivo.
 
 A utilização de soluções baseadas em nuvem e soluções prontas ajuda você a diminuir as despesas e acelerar o desenvolvimento. Entre em contato com a empresa que você escolheu para o desenvolvimento de sua solução na web para ter um objetivo claro antes de escolher a stack de tecnologia.
+
+
