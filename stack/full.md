@@ -60,6 +60,8 @@ Os desenvolvedores full-stack geralmente ocupam as cadeiras de líderes de tecno
 
 # As STACK's:
 
+<img src="./mern_edit.png">
+
 ## - MERN -
 
 MERN é uma das várias variações da stack MEAN (a próxima) (MongoDB / Express / Angular / Node), onde o tradicional framework de front-end 'Angular' é substituído pelo 'React JS'. O principal benefício de usar o MERN é a integração do React que dispõe de sua poderosa biblioteca, com capacidade de usar código simultaneamente em servidores e navegadores. Há um direcionamento fenomenal para o desenvolvimento full-stack (front-end e back-end). Além disso, o React utiliza JavaScript XML e Virtual DOM, componentes que funcionam e implementam mudanças perfeitamente.
@@ -74,6 +76,8 @@ Back-end -> Express | Node.js
 
 DB -> MongoDB
 
+<img src="./mean_edit.png">
+
 ## - MEAN -
 
 MEAN é uma stack de software JavaScript gratuita e de código aberto para criar sites dinâmicos e aplicativos da web. Seu ponto forte é que todos os componentes dos programas de suporte à stack MEAN são escritos em JavaScript. Além disso, os especialistas consideram a tecnologia MEAN a melhor para o desenvolvimento web devido aos seus vários benefícios. É composto por MongoDB (um banco de dados NoSQL), Express.js (um framework web de back-end), Angular (um framework front-end) e Node.js (um servidor de plataforma cruzada de código aberto) capacitado para desenvolver aplicativos web móveis, responsivos e complexos.
@@ -85,6 +89,8 @@ Front-end -> Angular | TypeScript
 Back-end -> Express | Node.js
 
 DB -> MongoDB
+
+<img src="./mevn_edit.png">
 
 ## - MEVN -
 
@@ -98,6 +104,8 @@ Back-end -> Express | Node.js
 
 DB -> MongoDB
 
+<img src="./pern_edit.png">
+
 ## - PERN -
 
 Essa stack consiste em PostgreSQL, Express, React e Node.js. Combinando essas tecnologias, você pode criar uma aplicação na Web em full-stack especializada em operações CRUD.
@@ -107,6 +115,8 @@ Front-end -> React | JavaScript ou TypeScript
 Back-end -> Express | Node.js
 
 DB -> PostgreSQL
+
+<img src="./lamp_edit.png">
 
 ## - LAMP -
 
@@ -118,6 +128,8 @@ Web Tech -> PHP | Python | Perl
 -   Linux
 
 DB -> MySQL
+
+<img src="./flutter_edit.png">
 
 ## - Flutter -
 
@@ -135,6 +147,8 @@ Vantagens:
 -   Curva de aprendizado suave.
 -   Unicidade no design de interface do usuário.
 
+<img src="./serverless_edit.png">
+
 ## - A stack sem servidor ( cloud ) -
 
 O desenvolvimento de aplicativos na infraestrutura em nuvem é uma tendência popular de desenvolvimento web nos dias de hoje e a escolha pode beneficiá-lo muito. Além disso, o gerenciamento de infraestrutura tornou-se fácil agora com a prestação de serviços e ferramentas fornecidas por plataformas de computação sem servidor.
@@ -147,6 +161,8 @@ Vantagens:
 -   Menos coisas com que se preocupar.
 -   Mais foco na experiência do usuário.
 -   Escalabilidade aprimorada/superior.
+
+<img src="./rails_edit.png">
 
 ## - Ruby On Rails Tech Stack -
 
