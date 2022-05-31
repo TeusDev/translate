@@ -60,7 +60,7 @@ Os desenvolvedores full-stack geralmente ocupam as cadeiras de líderes de tecno
 
 # As STACK's:
 
-<img src="./mern_edit.png">
+<img src="./img/mern_edit.png">
 
 ## - MERN -
 
@@ -76,7 +76,7 @@ Back-end -> Express | Node.js
 
 DB -> MongoDB
 
-<img src="./mean_edit.png">
+<img src="./img/mean_edit.png">
 
 ## - MEAN -
 
@@ -90,7 +90,7 @@ Back-end -> Express | Node.js
 
 DB -> MongoDB
 
-<img src="./mevn_edit.png">
+<img src="./img/mevn_edit.png">
 
 ## - MEVN -
 
@@ -104,7 +104,7 @@ Back-end -> Express | Node.js
 
 DB -> MongoDB
 
-<img src="./pern_edit.png">
+<img src="./img/pern_edit.png">
 
 ## - PERN -
 
@@ -116,7 +116,7 @@ Back-end -> Express | Node.js
 
 DB -> PostgreSQL
 
-<img src="./lamp_edit.png">
+<img src="./img/lamp_edit.png">
 
 ## - LAMP -
 
@@ -129,7 +129,7 @@ Web Tech -> PHP | Python | Perl
 
 DB -> MySQL
 
-<img src="./flutter_edit.png">
+<img src="./img/flutter_edit.png">
 
 ## - Flutter -
 
@@ -147,7 +147,7 @@ Vantagens:
 -   Curva de aprendizado suave.
 -   Unicidade no design de interface do usuário.
 
-<img src="./serverless_edit.png">
+<img src="./img/serverless_edit.png">
 
 ## - A stack sem servidor ( cloud ) -
 
@@ -162,7 +162,7 @@ Vantagens:
 -   Mais foco na experiência do usuário.
 -   Escalabilidade aprimorada/superior.
 
-<img src="./rails_edit.png">
+<img src="./img/rails_edit.png">
 
 ## - Ruby On Rails Tech Stack -
 
